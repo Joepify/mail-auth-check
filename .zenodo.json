@@ -1,0 +1,25 @@
+{
+  "title": "mail-auth-check: SPF, DMARC and DKIM checker",
+  "upload_type": "software",
+  "description": "Command-line tool (Python, no dependencies) that checks SPF, DMARC and DKIM records for a domain. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "dmarc",
+    "spf",
+    "dkim",
+    "email security"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.joepify.nl",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}
